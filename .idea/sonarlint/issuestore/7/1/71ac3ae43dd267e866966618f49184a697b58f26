@@ -1,0 +1,73 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ø´‡øÿÿÿÿ8ÚÒ¿Çà1
+T
+java:S2589"7Remove this expression which always evaluates to "true"(’ã¹ş8²Ó¿Çà1
+U
+java:S2589	"8Remove this expression which always evaluates to "false"(Å¯Ù¯8³Ó¿Çà1
+U
+java:S2589
+"8Remove this expression which always evaluates to "false"(ï©íî8³Ó¿Çà1
+U
+java:S2589"8Remove this expression which always evaluates to "false"(±‡Í 8´Ó¿Çà1
+T
+java:S2589"7Remove this expression which always evaluates to "true"(º÷©è8´Ó¿Çà1
+Y
+java:S2589"7Remove this expression which always evaluates to "true"(Ùâ‡­üÿÿÿÿ8µÓ¿Çà1
+Y
+java:S2589"7Remove this expression which always evaluates to "true"(ùÔùÿÿÿÿ8µÓ¿Çà1
+Z
+java:S2589"8Remove this expression which always evaluates to "false"(û·æ²şÿÿÿÿ8µÓ¿Çà1
+G	java:S106"+Replace this use of System.out by a logger.(¬•Ú²8ãÓ¿Çà1
+F	java:S106"+Replace this use of System.out by a logger.(¶Ï®D8åÓ¿Çà1
+L	java:S106"+Replace this use of System.out by a logger.(ùÔùÿÿÿÿ8çÓ¿Çà1
+J
+java:S1125"(Remove the unnecessary boolean literals.(ùÔùÿÿÿÿ8èÓ¿Çà1
+m
+java:S1764"KCorrect one of the identical sub-expressions on both sides of operator "&&"(ùÔùÿÿÿÿ8éÓ¿Çà1
+G	java:S106"+Replace this use of System.out by a logger.(º÷©è8êÓ¿Çà1
+E
+java:S1125"(Remove the unnecessary boolean literals.(º÷©è8ìÓ¿Çà1
+G	java:S106	"+Replace this use of System.out by a logger.(Å¯Ù¯8îÓ¿Çà1
+E
+java:S1125	"(Remove the unnecessary boolean literals.(Å¯Ù¯8îÓ¿Çà1
+G	java:S106
+"+Replace this use of System.out by a logger.(ï©íî8ğÓ¿Çà1
+E
+java:S1125
+"(Remove the unnecessary boolean literals.(ï©íî8ñÓ¿Çà1
+h
+java:S1764
+"KCorrect one of the identical sub-expressions on both sides of operator "&&"(ï©íî8ñÓ¿Çà1
+G	java:S106"+Replace this use of System.out by a logger.(¯š8òÓ¿Çà1
+G	java:S106"+Replace this use of System.out by a logger.(’ã¹ş8õÓ¿Çà1
+E
+java:S1125"(Remove the unnecessary boolean literals.(’ã¹ş8÷Ó¿Çà1
+h
+java:S1764"KCorrect one of the identical sub-expressions on both sides of operator "||"(’ã¹ş8øÓ¿Çà1
+L	java:S106"+Replace this use of System.out by a logger.(Ùâ‡­üÿÿÿÿ8úÓ¿Çà1
+J
+java:S1125"(Remove the unnecessary boolean literals.(Ùâ‡­üÿÿÿÿ8ûÓ¿Çà1
+G	java:S106"+Replace this use of System.out by a logger.(±‡Í 8üÓ¿Çà1
+E
+java:S1125"(Remove the unnecessary boolean literals.(±‡Í 8ıÓ¿Çà1
+L	java:S106"+Replace this use of System.out by a logger.(û·æ²şÿÿÿÿ8ÿÓ¿Çà1
+J
+java:S1125"(Remove the unnecessary boolean literals.(û·æ²şÿÿÿÿ8€Ô¿Çà1
+m
+java:S1764"KCorrect one of the identical sub-expressions on both sides of operator "||"(û·æ²şÿÿÿÿ8€Ô¿Çà1
+L	java:S106"+Replace this use of System.out by a logger.(ãÊ¾şÿÿÿÿ8Ô¿Çà1
+G	java:S106"+Replace this use of System.out by a logger.(¯ô—¸8ƒÔ¿Çà1
+g
+java:S1764"JCorrect one of the identical sub-expressions on both sides of operator "^"(¯ô—¸8„Ô¿Çà1
+L	java:S106"+Replace this use of System.out by a logger.(¿ÂÌàøÿÿÿÿ8…Ô¿Çà1
+L	java:S106"+Replace this use of System.out by a logger.(¯¢—áùÿÿÿÿ8ŠÔ¿Çà1
+L	java:S106"+Replace this use of System.out by a logger.(ûºÎÿÿÿÿÿ8Ô¿Çà1
+l
+java:S1764"JCorrect one of the identical sub-expressions on both sides of operator "^"(ûºÎÿÿÿÿÿ8Ô¿Çà1
+G	java:S106"+Replace this use of System.out by a logger.(Æƒ€Ò8’Ô¿Çà1
+L	java:S106"+Replace this use of System.out by a logger.(¥¶œ«úÿÿÿÿ8¡Ô¿Çà1
+I
+java:S1125"'Remove the unnecessary boolean literal.(¥¶œ«úÿÿÿÿ8¢Ô¿Çà1
+G	java:S106"+Replace this use of System.out by a logger.(ÖªşŞ8¥Ô¿Çà1
+D
+java:S1125"'Remove the unnecessary boolean literal.(ÖªşŞ8¦Ô¿Çà1

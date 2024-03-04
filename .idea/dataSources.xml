@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Projek LMKN" uuid="95a0df8e-cca4-4245-b09a-22c90398d9f6">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://lmkn-dev.cojihm5iqvb7.ap-southeast-1.rds.amazonaws.com:5432/lmkn_db_dev</jdbc-url>
+    </data-source>
+  </component>
+</project>
